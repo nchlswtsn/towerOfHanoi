@@ -1,7 +1,12 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1420513777793-6b5b2c9ca530?q=80&fm=jpg&s=5265dafceba363dccdff0a45ce9f085b);
+}
 .container {
+  margin-top: 5%;
   background-color: navy;
 }
 h1 {
+  padding-top: 10%;
   text-align: center;
 }
 .col-md-4 {
