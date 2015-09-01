@@ -1,0 +1,41 @@
+.container {
+  background-color: navy;
+}
+h1 {
+  text-align: center;
+}
+.col-md-4 {
+  width: 300px;
+  height: 500px;
+  border: 1px solid white;
+  position: relative;
+}
+#top {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  height: 50px;
+  background-color: red;
+  border: 2px solid black;
+}
+#mid {
+  width: 150px;
+  height: 50px;
+  background-color: Orange;
+  border: 2px solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
+#bot {
+  width: 200px;
+  height: 50px;
+  background-color: lightblue;
+  border: 2px solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Left, #Center, #Right {
+  width: 100%;
+  bottom: 0;
+  position: absolute;
+}
